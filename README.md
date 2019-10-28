@@ -1,9 +1,5 @@
 # Coursera_Capstone
 
-Please use this Website to open ipynb file extension.
+The file "Assginment_of_Web_Scraping.ipynb" is unable to open in GitHub hence please use the below link to open the same.
 
 https://nbviewer.jupyter.org/github/viv6267/Coursera_Capstone/blob/master/Assginment_of_Web_Scraping.ipynb
-
-
-#To See my project
-Note: there is problem while pushing my file its showing reload again.
