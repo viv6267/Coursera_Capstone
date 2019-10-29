@@ -1,5 +1,5 @@
 
-IBM Data Science Capstone Final Project
+IBM Data Science Capstone Final Project Week-1
 
 Find the most suitable location to open a new North or South Indian restaurant in New York, America
 
