@@ -15,7 +15,7 @@ The objective of this project is to find the most suitable location for the entr
 
 
 Target Audience:-
-The entrepreneur who wants to find the location to open a reliable South Indian Restaurant.
+The entrepreneur who wants to find the location to open a reliable North & South Indian Restaurant.
 
 Data:-
 To solve the problem, we need the following data:
